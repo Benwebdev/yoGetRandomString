@@ -1,4 +1,7 @@
 # yoGetRandomString
+
+npm install @benline/yoGetRandomString
+
 Get random string module for react thingy. 
 
 ```typescript
