@@ -1,4 +1,4 @@
-# yogetRandomString
+# yoGetRandomString
 Get random string module for react thingy. 
 
 ```typescript
